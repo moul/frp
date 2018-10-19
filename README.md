@@ -1,6 +1,6 @@
 # frp
 
-[![Build Status](https://travis-ci.org/fatedier/frp.svg)](https://travis-ci.org/fatedier/frp)
+[![Build Status](https://travis-ci.org/fatedier/frp.svg)](https://travis-ci.org/fatedier/frp) [![GuardRails badge](https://badges.production.guardrails.io/moul/frp.svg)](https://www.guardrails.io)
 
 [README](README.md) | [中文文档](README_zh.md)
 
